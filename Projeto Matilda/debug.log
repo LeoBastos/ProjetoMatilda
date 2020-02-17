@@ -1,0 +1,10 @@
+[1231/173712.940:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1231/173712.947:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1231/173712.947:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1231/173712.947:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1231/173712.947:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1231/173712.949:ERROR:exception_snapshot_win.cc(98)] thread ID 2764 not found in process
+[1231/173713.022:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1231/173713.023:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1231/173713.023:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1231/173713.023:ERROR:exception_snapshot_win.cc(98)] thread ID 10520 not found in process
